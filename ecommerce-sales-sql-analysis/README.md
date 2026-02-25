@@ -26,3 +26,7 @@ Analyze e-commerce sales data to provide insights on revenue trends, product per
 ### Regional Performance
 11. Which region generates the most sales?
 12. Which region has the highest profit margin?
+
+### **Dashboard**
+
+<img width="1058" height="654" alt="2026-02-25 17-59-24" src="https://github.com/user-attachments/assets/7397545c-1273-4faa-9586-5164c0ab47ec" />

@@ -30,3 +30,6 @@ Analyze e-commerce sales data to provide insights on revenue trends, product per
 ### **Dashboard**
 
 <img width="1058" height="654" alt="2026-02-25 17-59-24" src="https://github.com/user-attachments/assets/7397545c-1273-4faa-9586-5164c0ab47ec" />
+<img width="735" height="659" alt="2026-02-25 18-30-09" src="https://github.com/user-attachments/assets/b5178db5-cb51-47ca-8eb4-9c3aec0fc8c8" />
+
+

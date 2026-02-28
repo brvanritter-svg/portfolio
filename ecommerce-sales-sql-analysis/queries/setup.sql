@@ -1,7 +1,7 @@
-/* CREATE DATABASE IF NOT EXISTS ecommerce;
-USE ecommerce;
+CREATE DATABASE IF NOT EXISTS ecommerceDB;
+USE ecommerceDB;
 
--- Create the sales table
+-- Create the ecommerce table
 CREATE TABLE IF NOT EXISTS ecommerce(
     order_date DATE,
     product_name VARCHAR(255),
@@ -20,4 +20,4 @@ FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
-(order_date, product_name, category, region, quantity, sales, profit); */
+(order_date, product_name, category, region, quantity, sales, profit);
